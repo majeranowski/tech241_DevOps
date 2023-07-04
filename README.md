@@ -21,3 +21,10 @@ DevOps technique helps to automate the whole process. Within few minutes from pu
 ---
 
 Agile methodology helps to constantly improving and realeasing new versions of programs. It is connected with DevOps.
+
+---
+
+Developers used to have their own computer systems they were writing their code on. Every system could have slightly different systems and dependencies. Environments did not match.
+When it was time to deploy it caused conflicts on different systems. 
+
+DevOps engineer can set up dev environment with same settings and dependencies across all the systems so elementary it can reduce the numbers of bugs.
